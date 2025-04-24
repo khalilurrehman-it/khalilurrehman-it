@@ -17,6 +17,20 @@
 
 ---
 
+### 💼 Professional Experience
+
+**Front End Developer – Code Studio Solutions**  
+📍 Islamabad, Pakistan | 🗓️ July 2024 – April 2025
+
+- **Developed** modern, high-performance web and mobile applications using **React.js**, **Next.js**, and **React Native**, improving product usability and user satisfaction.
+- **Enhanced** frontend performance through optimization techniques, resulting in **faster load times** and improved retention.
+- **Integrated** complex backend APIs into interactive UIs, ensuring **real-time responsiveness** and smooth data flow.
+- **Built** scalable and **reusable component libraries**, accelerating feature development and reducing technical debt.
+- **Maintained** clean, version-controlled codebases using **Git**, **GitHub**, and **Bitbucket**, enabling smooth collaboration and deployment.
+- **Expanded** backend skills in **Node.js**, **Express.js**, and **MongoDB** by contributing to internal tools and full-stack feature rollouts.
+
+---
+
 ### 💻 Tech Stack
 
 #### 🖥 Frontend
@@ -29,6 +43,8 @@
   <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
   <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://skillicons.dev/icons?i=reactnative" />
 </p>
 
 #### ⚙️ Backend & Database
