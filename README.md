@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalil Ur Rehman</h1>
-<h3 align="center">A Passionate Full Stack Developer | MERN Stack | Open Source Enthusiast</h3>
+<h3 align="center">A Passionate Full Stack Developer | MERN Stack | Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Developer;MERN+Stack+Specialist;React+%7C+Next.js+%7C+Node.js+Lover;Open+Source+Contributor;Always+Learning+Something+New!&center=true&width=500&height=45" alt="Typing animation" />
